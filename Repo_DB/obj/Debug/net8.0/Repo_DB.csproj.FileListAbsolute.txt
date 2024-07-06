@@ -1,0 +1,14 @@
+S:\.net-web\Solution_101\Repo_DB\bin\Debug\net8.0\Repo_DB.deps.json
+S:\.net-web\Solution_101\Repo_DB\bin\Debug\net8.0\Repo_DB.runtimeconfig.json
+S:\.net-web\Solution_101\Repo_DB\bin\Debug\net8.0\Repo_DB.dll
+S:\.net-web\Solution_101\Repo_DB\bin\Debug\net8.0\Repo_DB.pdb
+S:\.net-web\Solution_101\Repo_DB\obj\Debug\net8.0\Repo_DB.csproj.AssemblyReference.cache
+S:\.net-web\Solution_101\Repo_DB\obj\Debug\net8.0\Repo_DB.GeneratedMSBuildEditorConfig.editorconfig
+S:\.net-web\Solution_101\Repo_DB\obj\Debug\net8.0\Repo_DB.AssemblyInfoInputs.cache
+S:\.net-web\Solution_101\Repo_DB\obj\Debug\net8.0\Repo_DB.AssemblyInfo.cs
+S:\.net-web\Solution_101\Repo_DB\obj\Debug\net8.0\Repo_DB.csproj.CoreCompileInputs.cache
+S:\.net-web\Solution_101\Repo_DB\obj\Debug\net8.0\Repo_DB.dll
+S:\.net-web\Solution_101\Repo_DB\obj\Debug\net8.0\refint\Repo_DB.dll
+S:\.net-web\Solution_101\Repo_DB\obj\Debug\net8.0\Repo_DB.pdb
+S:\.net-web\Solution_101\Repo_DB\obj\Debug\net8.0\Repo_DB.genruntimeconfig.cache
+S:\.net-web\Solution_101\Repo_DB\obj\Debug\net8.0\ref\Repo_DB.dll

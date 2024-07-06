@@ -1,0 +1,15 @@
+S:\.net-web\Solution_101\Business_Layer\bin\Debug\net8.0\Business_Layer.deps.json
+S:\.net-web\Solution_101\Business_Layer\bin\Debug\net8.0\Business_Layer.dll
+S:\.net-web\Solution_101\Business_Layer\bin\Debug\net8.0\Business_Layer.pdb
+S:\.net-web\Solution_101\Business_Layer\bin\Debug\net8.0\Repo_DB.dll
+S:\.net-web\Solution_101\Business_Layer\bin\Debug\net8.0\Repo_DB.pdb
+S:\.net-web\Solution_101\Business_Layer\obj\Debug\net8.0\Business_Layer.csproj.AssemblyReference.cache
+S:\.net-web\Solution_101\Business_Layer\obj\Debug\net8.0\Business_Layer.GeneratedMSBuildEditorConfig.editorconfig
+S:\.net-web\Solution_101\Business_Layer\obj\Debug\net8.0\Business_Layer.AssemblyInfoInputs.cache
+S:\.net-web\Solution_101\Business_Layer\obj\Debug\net8.0\Business_Layer.AssemblyInfo.cs
+S:\.net-web\Solution_101\Business_Layer\obj\Debug\net8.0\Business_Layer.csproj.CoreCompileInputs.cache
+S:\.net-web\Solution_101\Business_Layer\obj\Debug\net8.0\Business_Layer.csproj.CopyComplete
+S:\.net-web\Solution_101\Business_Layer\obj\Debug\net8.0\Business_Layer.dll
+S:\.net-web\Solution_101\Business_Layer\obj\Debug\net8.0\refint\Business_Layer.dll
+S:\.net-web\Solution_101\Business_Layer\obj\Debug\net8.0\Business_Layer.pdb
+S:\.net-web\Solution_101\Business_Layer\obj\Debug\net8.0\ref\Business_Layer.dll
